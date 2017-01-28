@@ -106,6 +106,5 @@ li a:hover:not(.active) {
 }
 
 .LabImg {
-    
-    border-radius: 8px;
+    width: 95%;
 }
