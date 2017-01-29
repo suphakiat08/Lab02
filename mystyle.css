@@ -8,13 +8,15 @@ th { color: #FFFFFF; font-size: 14px; background: #45a7d4;}
 
 td { font-size: 14px; }
 
+.tdWT { background: #fff; }
+
 .HTable { height: 50px; }
 
 .TBCenter { text-align: center; }
 
 /*enroll.html*/
 
-.HERTable { height: 40px; }
+.HERTable { height: 40px; background: #fff;}
 
 /*timetable.html*/
 
@@ -31,7 +33,7 @@ td { font-size: 14px; }
 
 .image {
   display: block;
-  width: 337px;
+  width: 200%;
   height: auto;
 }
 
@@ -42,7 +44,7 @@ td { font-size: 14px; }
   right: 0;
   background-color: #008CBA;
   overflow: hidden;
-  width: 337px;
+  width: 200%;
   height:0;
   transition: .5s ease;
 }
